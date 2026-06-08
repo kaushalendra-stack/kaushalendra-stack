@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Kaushalendra Kumar 👋
 
-<!--
-**kaushalendra-stack/kaushalendra-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer • Creative Designer • Problem Solver
 
-Here are some ideas to get you started:
+Building scalable web applications, eCommerce platforms, custom CMS solutions, and digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Web Developer with 3+ years of experience
+- ⚡ Specialized in PHP, MySQL, React, Next.js & TypeScript
+- 🛒 Building eCommerce platforms and custom CMS solutions
+- 🎨 Designing Instagram posts, YouTube thumbnails & marketing creatives
+- 🤝 Available for freelance projects and collaborations
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+
+### Backend
+PHP • Laravel • Node.js
+
+### Database
+MySQL • PostgreSQL • MongoDB
+
+### Tools
+Git • GitHub • Linux • AWS • Vercel
+
+---
+
+## 🌟 Featured Projects
+
+### The Indic Voice
+A content publishing platform exploring philosophy, culture, history, and society through India's indigenous knowledge systems.
+
+### Sprazo Ecommerce
+A scalable eCommerce platform featuring product management, order processing, and administration systems.
+
+### Prabodhika
+An educational platform focused on structured learning resources and scalable architecture.
+
+---
+
+## 📫 Contact
+
+Email: devlegendkk@gmail.com
+
+### Building Scalable Web Applications, Digital Products, and High-Performance Experiences.
